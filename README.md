@@ -1,3 +1,1 @@
-# Rock-Paper-Scissors
-A rock paper scissors game
- hello world
+A rock paper scissors game against a computer! How hard can it be?
